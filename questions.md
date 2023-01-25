@@ -3,6 +3,7 @@
 Try answering the following questions to test your understanding of the topics covered in this notebook:
 
 1. What is the purpose of the `os` module in Python?
+    creating and removing a directory (folder), fetching its contents, changing and identifying the current directory
 2. How do you identify the current working directory in a Jupyter notebook?
 3. How do you retrieve the list of files within a directory using Python?
 4. How do you create a directory using Python?
